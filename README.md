@@ -18,17 +18,17 @@ Hey, I'm **Ethan**, a passionate developer currently doing an apprenticeship in 
   <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
 </span>
-
+<br>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://jccolinbtssio.wordpress.com/wp-content/uploads/2022/04/powershell_logo.png" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">Powershell</span>
 </span>
-
+<br>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://e7.pngegg.com/pngimages/753/701/png-clipart-red-and-white-5-angle-area-text-brand-other-html-5-angle-text.png" width="32" height="32" style="display:block;margin:0 auto;" />
+  <img src="https://icon2.cleanpng.com/20180623/kwp/kisspng-web-development-html-software-development-software-modern-pattern-5b2e9b177ec089.4478529015297810155192.jpg" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">HTML</span>
 </span>
-
+<br>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">CSS</span>
