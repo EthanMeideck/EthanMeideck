@@ -25,7 +25,7 @@ Hey, I'm **Ethan**, a passionate developer currently doing an apprenticeship in 
 </span>
 <br>
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://icon2.cleanpng.com/20180623/kwp/kisspng-web-development-html-software-development-software-modern-pattern-5b2e9b177ec089.4478529015297810155192.jpg" width="32" height="32" style="display:block;margin:0 auto;" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-download-png-1175208.png?f=webp" width="32" height="32" style="display:block;margin:0 auto;" />
   <span style="font-size:11px;display:block;margin-top:4px;">HTML</span>
 </span>
 <br>
