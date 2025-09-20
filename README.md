@@ -6,6 +6,7 @@ Hey, I'm **Ethan**, a passionate developer currently doing an apprenticeship in 
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
       <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
       <a href="ethan@meideck.net">ethan@meideck.net</a>
+      <br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="20" height="20" />
       <a href="https://www.linkedin.com/in/ethan-meideck/">Ethan Meideck</a>
     </span>
